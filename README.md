@@ -1,0 +1,2 @@
+# -Sudoku
+Sudoku is a logic-based combinatorial number-placement puzzle. The objective is to fill a x2 ⇤ x2 grid with digits so that each column, each row, and each of the x ⇥ x subgrids that compose the grid contain all of the digits from 1 to x2. (For instance, a 9 ⇤ 9 grid would contain nine 3 ⇤ 3 subgrids.) The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a single solution
